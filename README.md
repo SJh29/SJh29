@@ -10,7 +10,7 @@
 
   and how programming languages handle memory alongside the OS and processor.
 
-- While I am not looking for collaboration actively feel free to contact me if you are interested in doing so!
+- While I am not looking for collaborations actively feel free to contact me if you are interested in doing so!
 
 - Reach me at sparshjha40@gmail.com
 
